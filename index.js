@@ -19,6 +19,13 @@ app.post('/', (req, res) => {
     res.send("Got a POST request at '/'");
 });
 
+// Define POST endpoint at '/user'
+app.post('/user', (req, res) => {
+    console.log(req.body);
+    res.send("Received");
+    const user = req.body;
+});
+
 // Start the server
 app.listen(port, () => {
     console.log("Listening on PORT 3000");
