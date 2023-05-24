@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Dell XPS 15",
+        "category": "Laptops",
+        "price": 200000
+    },
+    {
+        "name": "Apple MacBook Pro 16",
+        "category": "Laptops",
+        "price": 239900
+    },
+    {
+        "name": "HP Envy x360",
+        "category": "Laptops",
+        "price": 81490
+    },
+    {
+        "name": "Samsung Galaxy Watch4",
+        "category": "Smartwatches",
+        "price": 25000
+    },
+    {
+        "name": "Apple Watch Series 7",
+        "category": "Smartwatches",
+        "price": 41900
+    }
+]
